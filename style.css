@@ -1,0 +1,196 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./images/1331910.jpg);
+    
+}
+
+.games{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gta6{
+    height: 500px;
+    width: 100px;
+    background-image: url(./images/Gta-6.png);
+    border-radius: 30px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.spidermanrem{
+    height: 500px;
+    width: 100px;
+    background-image: url(./images/spiderman\ remastered.jpeg);
+    border-radius: 30px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.spidermanmiles{
+    height: 500px;
+    width: 100px;
+    background-image: url(./images/spiderman\ miles\ morales.jpeg);
+    border-radius: 30px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.spiderman2{
+    height: 500px;
+    width: 100px;
+    background-image: url(./images/spiderman-2.jpeg);
+    border-radius: 30px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.nfsheat{
+    height: 500px;
+    width: 100px;
+    background-image: url(./images/nfs-heat.jpg);
+    border-radius: 30px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.mk11{
+    height: 500px;
+    width: 100px;
+    background-image: url(./images/mk-11.jpg);
+    border-radius: 30px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.batman{
+    height: 500px;
+    width: 100px;
+    background-image: url(./images/batman\ arkam\ night.jpg);
+    border-radius: 30px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.gta6 h3{
+    color: white;
+    margin: 10px;
+}
+
+.spidermanrem h3{
+    color: white;
+    margin: 10px;
+}
+
+.spidermanmiles h3{
+    color: white;
+    margin: 10px;
+}
+
+.spiderman2 h3{
+    color: white;
+    margin: 10px;
+}
+
+.nfsheat h3{
+    color: white;
+    margin: 10px;
+}
+
+.mk11 h3{
+    color: white;
+    margin: 10px;
+}
+
+.batman h3{
+    color: white;
+    margin: 10px;
+}
+
+
+.gta6:hover{
+    width: 700px;
+    cursor: pointer;
+    transition: 1.5s;
+}
+
+.spidermanrem:hover{
+    width: 700px;
+    cursor: pointer;
+    transition: 1.5s;
+}
+
+.spidermanmiles:hover{
+    width: 700px;
+    cursor: pointer;
+    transition: 1.5s;
+}
+
+.spiderman2:hover{
+    width: 700px;
+    cursor: pointer;
+    transition: 1.5s;
+}
+
+.nfsheat:hover{
+    width: 700px;
+    cursor: pointer;
+    transition: 1.5s;
+}
+
+.mk11:hover{
+    width: 700px;
+    cursor: pointer;
+    transition: 1.5s;
+}
+
+.batman:hover{
+    width: 700px;
+    cursor: pointer;
+    transition: 1.5s;
+}
+
+body h1{
+    text-align: center;
+}
+
+body h3{
+    text-align: center;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+body footer{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+ul h3{
+    font-size: 2rem;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.btn{
+    border-radius: 20px;
+    font-size: 18px;
+}
